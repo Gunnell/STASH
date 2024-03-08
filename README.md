@@ -68,4 +68,8 @@ The application provides endpoints for managing inventory and items through a RE
 To run the project, execute the following command:
 
 ```bash
+cd path/to/STASH
+cd Stash_Case
 python manage.py runserver
+cd ../ui
+open index.html  
